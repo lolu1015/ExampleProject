@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ExampleProject</string>
+    <string name="toSecondActivity">"nächste Activity öffnen "</string>
+    <string name="toFirstActivity">"erste Activity öffnen "</string>
+    <string name="action_info">Info</string>
+    <string name="action_beenden">Beenden</string>
+
+    <string name="VorFamilienname">Vor- und Familienname</string>
+    <string name="Email">E-Mail</string>
+    <string name="Passwort">Passwort</string>
+    <string name="PasswortWdh">Passwort wiederholen</string>
+    <string name="Datenschutz">Ich stimme den Datenschutzbestimmungen zu</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
